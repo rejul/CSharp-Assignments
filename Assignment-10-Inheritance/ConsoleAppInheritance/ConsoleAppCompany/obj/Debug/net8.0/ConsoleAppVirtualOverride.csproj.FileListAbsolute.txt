@@ -1,0 +1,14 @@
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\bin\Debug\net8.0\ConsoleAppVirtualOverride.exe
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\bin\Debug\net8.0\ConsoleAppVirtualOverride.deps.json
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\bin\Debug\net8.0\ConsoleAppVirtualOverride.runtimeconfig.json
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\bin\Debug\net8.0\ConsoleAppVirtualOverride.dll
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\bin\Debug\net8.0\ConsoleAppVirtualOverride.pdb
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ConsoleAppVirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ConsoleAppVirtualOverride.AssemblyInfoInputs.cache
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ConsoleAppVirtualOverride.AssemblyInfo.cs
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ConsoleAppVirtualOverride.csproj.CoreCompileInputs.cache
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ConsoleAppVirtualOverride.dll
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\refint\ConsoleAppVirtualOverride.dll
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ConsoleAppVirtualOverride.pdb
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ConsoleAppVirtualOverride.genruntimeconfig.cache
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppCompany\obj\Debug\net8.0\ref\ConsoleAppVirtualOverride.dll

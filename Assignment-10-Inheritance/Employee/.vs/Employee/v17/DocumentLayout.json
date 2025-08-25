@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|c:\\users\\rejul\\source\\repos\\employee\\college\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|solutionrelative:college\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|c:\\users\\rejul\\source\\repos\\employee\\college\\model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|solutionrelative:college\\model\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|c:\\users\\rejul\\source\\repos\\employee\\college\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|solutionrelative:college\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|c:\\users\\rejul\\source\\repos\\employee\\college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7811924A-CDB3-4F6C-B20E-276822B3FBE5}|College\\College.csproj|solutionrelative:college\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7A014C-0A01-4092-A87B-E02D0AA660F4}|Employee\\Employee.csproj|c:\\users\\rejul\\source\\repos\\employee\\employee\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7A014C-0A01-4092-A87B-E02D0AA660F4}|Employee\\Employee.csproj|solutionrelative:employee\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7A014C-0A01-4092-A87B-E02D0AA660F4}|Employee\\Employee.csproj|c:\\users\\rejul\\source\\repos\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7A014C-0A01-4092-A87B-E02D0AA660F4}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "College\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Model\\Course.cs",
+              "RelativeToolTip": "College\\Model\\Course.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:27:27.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "College\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Model\\Student.cs",
+              "RelativeToolTip": "College\\Model\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:27:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Model\\Professor.cs",
+              "RelativeDocumentMoniker": "College\\Model\\Professor.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Model\\Professor.cs",
+              "RelativeToolTip": "College\\Model\\Professor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:27:00.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Program.cs",
+              "RelativeDocumentMoniker": "College\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Employee\\College\\Program.cs",
+              "RelativeToolTip": "College\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T14:26:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Employee\\Employee\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Employee\\Employee\\Model\\Employee.cs",
+              "RelativeToolTip": "Employee\\Model\\Employee.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T13:16:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:13:53.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

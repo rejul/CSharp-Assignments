@@ -1,0 +1,14 @@
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.exe
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.deps.json
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.runtimeconfig.json
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.dll
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\bin\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfoInputs.cache
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.AssemblyInfo.cs
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.csproj.CoreCompileInputs.cache
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.dll
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\refint\ConsoleAppInheritance.dll
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.pdb
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ConsoleAppInheritance.genruntimeconfig.cache
+C:\DemoConsolePractice2025\ConsoleAppInheritance\ConsoleAppInheritance\obj\Debug\net8.0\ref\ConsoleAppInheritance.dll

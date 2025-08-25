@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CellPhoneSystem/1.0.0": {
+        "runtime": {
+          "CellPhoneSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CellPhoneSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

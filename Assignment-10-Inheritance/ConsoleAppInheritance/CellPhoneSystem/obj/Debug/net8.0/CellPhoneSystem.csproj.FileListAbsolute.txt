@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\bin\Debug\net8.0\CellPhoneSystem.exe
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\bin\Debug\net8.0\CellPhoneSystem.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\bin\Debug\net8.0\CellPhoneSystem.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\bin\Debug\net8.0\CellPhoneSystem.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\bin\Debug\net8.0\CellPhoneSystem.pdb
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\CellPhoneSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\CellPhoneSystem.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\CellPhoneSystem.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\CellPhoneSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\CellPhoneSystem.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\refint\CellPhoneSystem.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\CellPhoneSystem.pdb
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\CellPhoneSystem.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\CellPhoneSystem\obj\Debug\net8.0\ref\CellPhoneSystem.dll

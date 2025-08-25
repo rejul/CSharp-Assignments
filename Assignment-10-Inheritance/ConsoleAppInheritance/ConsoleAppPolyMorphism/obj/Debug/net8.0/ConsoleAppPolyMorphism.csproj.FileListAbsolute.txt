@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ConsoleAppPolyMorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ConsoleAppPolyMorphism.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ConsoleAppPolyMorphism.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ConsoleAppPolyMorphism.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\bin\Debug\net8.0\ConsoleAppPolyMorphism.exe
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\bin\Debug\net8.0\ConsoleAppPolyMorphism.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\bin\Debug\net8.0\ConsoleAppPolyMorphism.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\bin\Debug\net8.0\ConsoleAppPolyMorphism.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\bin\Debug\net8.0\ConsoleAppPolyMorphism.pdb
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ConsoleAppPolyMorphism.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\refint\ConsoleAppPolyMorphism.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ConsoleAppPolyMorphism.pdb
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ConsoleAppPolyMorphism.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsoleAppPolyMorphism\obj\Debug\net8.0\ref\ConsoleAppPolyMorphism.dll

@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\bin\Debug\net8.0\ConsolePolyMorphism.exe
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\bin\Debug\net8.0\ConsolePolyMorphism.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\bin\Debug\net8.0\ConsolePolyMorphism.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\bin\Debug\net8.0\ConsolePolyMorphism.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\bin\Debug\net8.0\ConsolePolyMorphism.pdb
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ConsolePolyMorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ConsolePolyMorphism.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ConsolePolyMorphism.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ConsolePolyMorphism.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ConsolePolyMorphism.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\refint\ConsolePolyMorphism.dll
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ConsolePolyMorphism.pdb
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ConsolePolyMorphism.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppInheritance\ConsolePolyMorphism\obj\Debug\net8.0\ref\ConsolePolyMorphism.dll
