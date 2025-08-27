@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\bin\Debug\net8.0\Assignment2D.exe
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\bin\Debug\net8.0\Assignment2D.deps.json
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\bin\Debug\net8.0\Assignment2D.runtimeconfig.json
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\bin\Debug\net8.0\Assignment2D.dll
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\bin\Debug\net8.0\Assignment2D.pdb
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\Assignment2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\Assignment2D.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\Assignment2D.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\Assignment2D.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\Assignment2D.dll
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\refint\Assignment2D.dll
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\Assignment2D.pdb
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\Assignment2D.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\Assignment2D\Assignment2D\obj\Debug\net8.0\ref\Assignment2D.dll

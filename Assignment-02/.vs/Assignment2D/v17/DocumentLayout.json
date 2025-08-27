@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127F90AD-B6EE-4E07-9EF8-383D898BA7DD}|Assignment2C\\Assignment2C.csproj|c:\\users\\rejul\\source\\repos\\assignment2d\\assignment2c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127F90AD-B6EE-4E07-9EF8-383D898BA7DD}|Assignment2C\\Assignment2C.csproj|solutionrelative:assignment2c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAD13E5-1E57-44A4-A131-05D59C4AC7E9}|Assignment2B\u0027\\Assignment2B.csproj|c:\\users\\rejul\\source\\repos\\assignment2d\\assignment2b\u0027\\assignment2b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CAD13E5-1E57-44A4-A131-05D59C4AC7E9}|Assignment2B\u0027\\Assignment2B.csproj|solutionrelative:assignment2b\u0027\\assignment2b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BD3315-7C90-4063-8149-66AE09A1F2DA}|Assignment2A\\Assignment2A.csproj|c:\\users\\rejul\\source\\repos\\assignment2d\\assignment2a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BD3315-7C90-4063-8149-66AE09A1F2DA}|Assignment2A\\Assignment2A.csproj|solutionrelative:assignment2a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3742DE8B-F853-44B6-99C7-3D30BD0545C5}|Assignment2G\\Assignment2G.csproj|c:\\users\\rejul\\source\\repos\\assignment2d\\assignment2g\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3742DE8B-F853-44B6-99C7-3D30BD0545C5}|Assignment2G\\Assignment2G.csproj|solutionrelative:assignment2g\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77A2524-DACC-46A8-9E97-9E99AF420396}|Assignment2F\\Assignment2F.csproj|c:\\users\\rejul\\source\\repos\\assignment2d\\assignment2f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77A2524-DACC-46A8-9E97-9E99AF420396}|Assignment2F\\Assignment2F.csproj|solutionrelative:assignment2f\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F00D9F-3EEC-47DD-A3C7-58F3FD0C3A8B}|Assignment2E\\Assignment2E.csproj|c:\\users\\rejul\\source\\repos\\assignment2d\\assignment2e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F00D9F-3EEC-47DD-A3C7-58F3FD0C3A8B}|Assignment2E\\Assignment2E.csproj|solutionrelative:assignment2e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058FE218-522C-47FD-9AAA-FBA2448405D8}|Assignment2D\\Assignment2D.csproj|c:\\users\\rejul\\source\\repos\\assignment2d\\assignment2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058FE218-522C-47FD-9AAA-FBA2448405D8}|Assignment2D\\Assignment2D.csproj|solutionrelative:assignment2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2B\u0027\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment2B\u0027\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2C\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2C\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2C\\Program.cs",
+              "RelativeToolTip": "Assignment2C\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:05:17.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment2B",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2B\u0027\\Assignment2B.csproj",
+              "RelativeDocumentMoniker": "Assignment2B\u0027\\Assignment2B.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2B\u0027\\Assignment2B.csproj",
+              "RelativeToolTip": "Assignment2B\u0027\\Assignment2B.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T10:04:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2B\u0027\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2B\u0027\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2B\u0027\\Program.cs",
+              "RelativeToolTip": "Assignment2B\u0027\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:02:28.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2A\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2A\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2A\\Program.cs",
+              "RelativeToolTip": "Assignment2A\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:00:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2G\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2G\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2G\\Program.cs",
+              "RelativeToolTip": "Assignment2G\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:38:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2F\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2F\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2F\\Program.cs",
+              "RelativeToolTip": "Assignment2F\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:37:32.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2E\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2E\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2E\\Program.cs",
+              "RelativeToolTip": "Assignment2E\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAzwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:09:41.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2D\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2D\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\Assignment2D\\Assignment2D\\Program.cs",
+              "RelativeToolTip": "Assignment2D\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:57:10.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
