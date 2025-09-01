@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\bin\Debug\net8.0\Assigment4a.exe
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\bin\Debug\net8.0\Assigment4a.deps.json
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\bin\Debug\net8.0\Assigment4a.runtimeconfig.json
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\bin\Debug\net8.0\Assigment4a.dll
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\bin\Debug\net8.0\Assigment4a.pdb
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\Assigment4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\Assigment4a.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\Assigment4a.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\Assigment4a.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\Assigment4a.dll
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\refint\Assigment4a.dll
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\Assigment4a.pdb
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\Assigment4a.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\Assigment4a\Assigment4a\obj\Debug\net8.0\ref\Assigment4a.dll

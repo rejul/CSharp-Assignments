@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\bin\Debug\net8.0\assigment3c.exe
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\bin\Debug\net8.0\assigment3c.deps.json
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\bin\Debug\net8.0\assigment3c.runtimeconfig.json
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\bin\Debug\net8.0\assigment3c.dll
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\bin\Debug\net8.0\assigment3c.pdb
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\assigment3c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\assigment3c.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\assigment3c.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\assigment3c.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\assigment3c.dll
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\refint\assigment3c.dll
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\assigment3c.pdb
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\assigment3c.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\Assignment3a\assigment3c\obj\Debug\net8.0\ref\assigment3c.dll

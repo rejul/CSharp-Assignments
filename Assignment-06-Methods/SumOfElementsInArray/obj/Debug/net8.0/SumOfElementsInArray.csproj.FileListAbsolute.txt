@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\bin\Debug\net8.0\SumOfElementsInArray.exe
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\bin\Debug\net8.0\SumOfElementsInArray.deps.json
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\bin\Debug\net8.0\SumOfElementsInArray.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\bin\Debug\net8.0\SumOfElementsInArray.dll
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\bin\Debug\net8.0\SumOfElementsInArray.pdb
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\SumOfElementsInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\SumOfElementsInArray.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\SumOfElementsInArray.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\SumOfElementsInArray.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\SumOfElementsInArray.dll
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\refint\SumOfElementsInArray.dll
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\SumOfElementsInArray.pdb
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\SumOfElementsInArray.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleMethodOne\SumOfElementsInArray\obj\Debug\net8.0\ref\SumOfElementsInArray.dll

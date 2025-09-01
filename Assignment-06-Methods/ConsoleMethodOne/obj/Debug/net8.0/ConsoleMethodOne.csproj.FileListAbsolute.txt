@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\bin\Debug\net8.0\ConsoleMethodOne.exe
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\bin\Debug\net8.0\ConsoleMethodOne.deps.json
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\bin\Debug\net8.0\ConsoleMethodOne.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\bin\Debug\net8.0\ConsoleMethodOne.dll
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\bin\Debug\net8.0\ConsoleMethodOne.pdb
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ConsoleMethodOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ConsoleMethodOne.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ConsoleMethodOne.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ConsoleMethodOne.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ConsoleMethodOne.dll
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\refint\ConsoleMethodOne.dll
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ConsoleMethodOne.pdb
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ConsoleMethodOne.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleMethodOne\ConsoleMethodOne\obj\Debug\net8.0\ref\ConsoleMethodOne.dll

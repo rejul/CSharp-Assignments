@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\bin\Debug\net8.0\StringCharInReverse.exe
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\bin\Debug\net8.0\StringCharInReverse.deps.json
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\bin\Debug\net8.0\StringCharInReverse.runtimeconfig.json
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\bin\Debug\net8.0\StringCharInReverse.dll
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\bin\Debug\net8.0\StringCharInReverse.pdb
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\StringCharInReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\StringCharInReverse.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\StringCharInReverse.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\StringCharInReverse.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\StringCharInReverse.dll
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\refint\StringCharInReverse.dll
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\StringCharInReverse.pdb
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\StringCharInReverse.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\LengthOfString\StringCharInReverse\obj\Debug\net8.0\ref\StringCharInReverse.dll

@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\bin\Debug\net8.0\LengthOfString.exe
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\bin\Debug\net8.0\LengthOfString.deps.json
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\bin\Debug\net8.0\LengthOfString.runtimeconfig.json
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\bin\Debug\net8.0\LengthOfString.dll
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\bin\Debug\net8.0\LengthOfString.pdb
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\LengthOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\LengthOfString.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\LengthOfString.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\LengthOfString.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\LengthOfString.dll
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\refint\LengthOfString.dll
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\LengthOfString.pdb
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\LengthOfString.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\LengthOfString\LengthOfString\obj\Debug\net8.0\ref\LengthOfString.dll

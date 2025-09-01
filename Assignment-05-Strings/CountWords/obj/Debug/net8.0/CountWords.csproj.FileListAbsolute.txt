@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\bin\Debug\net8.0\CountWords.exe
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\bin\Debug\net8.0\CountWords.deps.json
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\bin\Debug\net8.0\CountWords.runtimeconfig.json
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\bin\Debug\net8.0\CountWords.dll
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\bin\Debug\net8.0\CountWords.pdb
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\CountWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\CountWords.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\CountWords.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\CountWords.dll
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\refint\CountWords.dll
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\CountWords.pdb
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\CountWords.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\LengthOfString\CountWords\obj\Debug\net8.0\ref\CountWords.dll

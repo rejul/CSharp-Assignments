@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94B8DDFD-BDB8-40C8-9B1B-4B6C3958DD62}|CheckPrime\\CheckPrime.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\checkprime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B8DDFD-BDB8-40C8-9B1B-4B6C3958DD62}|CheckPrime\\CheckPrime.csproj|solutionrelative:checkprime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705F0E1C-7212-4EEE-B05E-E1A4B6BE7EB4}|RecursionEvenOrOdd\\RecursionEvenOrOdd.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\recursionevenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705F0E1C-7212-4EEE-B05E-E1A4B6BE7EB4}|RecursionEvenOrOdd\\RecursionEvenOrOdd.csproj|solutionrelative:recursionevenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0DF216-ADE0-4CB7-B1D8-C92B4022EA33}|FindIndividualDigit\\FindIndividualDigit.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\findindividualdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0DF216-ADE0-4CB7-B1D8-C92B4022EA33}|FindIndividualDigit\\FindIndividualDigit.csproj|solutionrelative:findindividualdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BE7D9A-217D-4309-871E-56035A72706F}|SumofIndividualNumber\\SumofIndividualNumber.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\sumofindividualnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BE7D9A-217D-4309-871E-56035A72706F}|SumofIndividualNumber\\SumofIndividualNumber.csproj|solutionrelative:sumofindividualnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07DF1C61-F594-4C14-865D-1E292FFB6523}|Fibonacci\\Fibonacci.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DF1C61-F594-4C14-865D-1E292FFB6523}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAC0DAE-7414-4847-BA91-A54F4CBE1A47}|SwapTwo\\SwapTwo.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\swaptwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAC0DAE-7414-4847-BA91-A54F4CBE1A47}|SwapTwo\\SwapTwo.csproj|solutionrelative:swaptwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73AE89DA-86B4-4117-B5C0-F319E00CEF99}|SumOfElementsInArray\\SumOfElementsInArray.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\sumofelementsinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AE89DA-86B4-4117-B5C0-F319E00CEF99}|SumOfElementsInArray\\SumOfElementsInArray.csproj|solutionrelative:sumofelementsinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C334765F-0815-48D0-9AFF-782D9AB62A40}|ConsoleMethodOne\\ConsoleMethodOne.csproj|c:\\users\\rejul\\source\\repos\\consolemethodone\\consolemethodone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C334765F-0815-48D0-9AFF-782D9AB62A40}|ConsoleMethodOne\\ConsoleMethodOne.csproj|solutionrelative:consolemethodone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\RecursionEvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "RecursionEvenOrOdd\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\RecursionEvenOrOdd\\Program.cs",
+              "RelativeToolTip": "RecursionEvenOrOdd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:03:54.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\FindIndividualDigit\\Program.cs",
+              "RelativeDocumentMoniker": "FindIndividualDigit\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\FindIndividualDigit\\Program.cs",
+              "RelativeToolTip": "FindIndividualDigit\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:52:10.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\SumofIndividualNumber\\Program.cs",
+              "RelativeDocumentMoniker": "SumofIndividualNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\SumofIndividualNumber\\Program.cs",
+              "RelativeToolTip": "SumofIndividualNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:47:14.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\CheckPrime\\Program.cs",
+              "RelativeDocumentMoniker": "CheckPrime\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\CheckPrime\\Program.cs",
+              "RelativeToolTip": "CheckPrime\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:38:40.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\Fibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "Fibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\Fibonacci\\Program.cs",
+              "RelativeToolTip": "Fibonacci\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:28:55.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\SwapTwo\\Program.cs",
+              "RelativeDocumentMoniker": "SwapTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\SwapTwo\\Program.cs",
+              "RelativeToolTip": "SwapTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:20:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\SumOfElementsInArray\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfElementsInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\SumOfElementsInArray\\Program.cs",
+              "RelativeToolTip": "SumOfElementsInArray\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:12:13.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\ConsoleMethodOne\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleMethodOne\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleMethodOne\\ConsoleMethodOne\\Program.cs",
+              "RelativeToolTip": "ConsoleMethodOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:02:27.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

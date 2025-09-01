@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\bin\Debug\net8.0\PatternA.exe
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\bin\Debug\net8.0\PatternA.deps.json
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\bin\Debug\net8.0\PatternA.runtimeconfig.json
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\bin\Debug\net8.0\PatternA.dll
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\bin\Debug\net8.0\PatternA.pdb
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\PatternA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\PatternA.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\PatternA.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\PatternA.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\PatternA.dll
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\refint\PatternA.dll
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\PatternA.pdb
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\PatternA.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\Assignment3a\PatternA\obj\Debug\net8.0\ref\PatternA.dll

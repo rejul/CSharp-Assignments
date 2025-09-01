@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2162BD55-23D4-4F8A-86BD-316471554226}|ClassAssignment3\\ClassAssignment3.csproj|c:\\users\\rejul\\source\\repos\\classassigment1\\classassignment3\\model\\movieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2162BD55-23D4-4F8A-86BD-316471554226}|ClassAssignment3\\ClassAssignment3.csproj|solutionrelative:classassignment3\\model\\movieticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2A8DA-EF5B-4F3C-A066-05AE126155EF}|ClassAssignment2\\ClassAssignment2.csproj|c:\\users\\rejul\\source\\repos\\classassigment1\\classassignment2\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2A8DA-EF5B-4F3C-A066-05AE126155EF}|ClassAssignment2\\ClassAssignment2.csproj|solutionrelative:classassignment2\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7596CC31-8083-4353-ADF5-582A1279F779}|ClassAssigment1\\ClassAssignment1.csproj|c:\\users\\rejul\\source\\repos\\classassigment1\\classassigment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7596CC31-8083-4353-ADF5-582A1279F779}|ClassAssigment1\\ClassAssignment1.csproj|solutionrelative:classassigment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7596CC31-8083-4353-ADF5-582A1279F779}|ClassAssigment1\\ClassAssignment1.csproj|c:\\users\\rejul\\source\\repos\\classassigment1\\classassigment1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7596CC31-8083-4353-ADF5-582A1279F779}|ClassAssigment1\\ClassAssignment1.csproj|solutionrelative:classassigment1\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2162BD55-23D4-4F8A-86BD-316471554226}|ClassAssignment3\\ClassAssignment3.csproj|c:\\users\\rejul\\source\\repos\\classassigment1\\classassignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2162BD55-23D4-4F8A-86BD-316471554226}|ClassAssignment3\\ClassAssignment3.csproj|solutionrelative:classassignment3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD2A8DA-EF5B-4F3C-A066-05AE126155EF}|ClassAssignment2\\ClassAssignment2.csproj|c:\\users\\rejul\\source\\repos\\classassigment1\\classassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCD2A8DA-EF5B-4F3C-A066-05AE126155EF}|ClassAssignment2\\ClassAssignment2.csproj|solutionrelative:classassignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment3\\Model\\MovieTicket.cs",
+              "RelativeDocumentMoniker": "ClassAssignment3\\Model\\MovieTicket.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment3\\Model\\MovieTicket.cs",
+              "RelativeToolTip": "ClassAssignment3\\Model\\MovieTicket.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:02:45.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment3\\Program.cs",
+              "RelativeDocumentMoniker": "ClassAssignment3\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment3\\Program.cs",
+              "RelativeToolTip": "ClassAssignment3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:01:19.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment2\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassAssignment2\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment2\\Model\\Employee.cs",
+              "RelativeToolTip": "ClassAssignment2\\Model\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T01:05:36.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment2\\Program.cs",
+              "RelativeDocumentMoniker": "ClassAssignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssignment2\\Program.cs",
+              "RelativeToolTip": "ClassAssignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T01:04:42.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssigment1\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ClassAssigment1\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssigment1\\Model\\Product.cs",
+              "RelativeToolTip": "ClassAssigment1\\Model\\Product.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:49:18.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssigment1\\Program.cs",
+              "RelativeDocumentMoniker": "ClassAssigment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ClassAssigment1\\ClassAssigment1\\Program.cs",
+              "RelativeToolTip": "ClassAssigment1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T14:48:25.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

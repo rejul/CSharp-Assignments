@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\bin\Debug\net8.0\Assignment3d.exe
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\bin\Debug\net8.0\Assignment3d.deps.json
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\bin\Debug\net8.0\Assignment3d.runtimeconfig.json
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\bin\Debug\net8.0\Assignment3d.dll
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\bin\Debug\net8.0\Assignment3d.pdb
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\Assignment3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\Assignment3d.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\Assignment3d.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\Assignment3d.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\Assignment3d.dll
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\refint\Assignment3d.dll
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\Assignment3d.pdb
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\Assignment3d.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\Assignment3a\Assignment3d\obj\Debug\net8.0\ref\Assignment3d.dll

@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ClassAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ClassAssignment3.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ClassAssignment3.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ClassAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\bin\Debug\net8.0\ClassAssignment3.exe
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\bin\Debug\net8.0\ClassAssignment3.deps.json
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\bin\Debug\net8.0\ClassAssignment3.runtimeconfig.json
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\bin\Debug\net8.0\ClassAssignment3.dll
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\bin\Debug\net8.0\ClassAssignment3.pdb
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ClassAssignment3.dll
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\refint\ClassAssignment3.dll
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ClassAssignment3.pdb
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ClassAssignment3.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ClassAssigment1\ClassAssignment3\obj\Debug\net8.0\ref\ClassAssignment3.dll

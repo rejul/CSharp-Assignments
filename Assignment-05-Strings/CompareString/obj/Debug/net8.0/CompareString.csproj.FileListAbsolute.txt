@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\bin\Debug\net8.0\CompareString.exe
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\bin\Debug\net8.0\CompareString.deps.json
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\bin\Debug\net8.0\CompareString.runtimeconfig.json
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\bin\Debug\net8.0\CompareString.dll
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\bin\Debug\net8.0\CompareString.pdb
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\CompareString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\CompareString.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\CompareString.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\CompareString.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\CompareString.dll
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\refint\CompareString.dll
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\CompareString.pdb
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\CompareString.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\LengthOfString\CompareString\obj\Debug\net8.0\ref\CompareString.dll

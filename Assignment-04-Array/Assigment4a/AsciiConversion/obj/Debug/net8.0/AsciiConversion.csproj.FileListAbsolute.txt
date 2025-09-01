@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\bin\Debug\net8.0\AsciiConversion.exe
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\bin\Debug\net8.0\AsciiConversion.deps.json
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\bin\Debug\net8.0\AsciiConversion.runtimeconfig.json
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\bin\Debug\net8.0\AsciiConversion.dll
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\bin\Debug\net8.0\AsciiConversion.pdb
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\AsciiConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\AsciiConversion.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\AsciiConversion.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\AsciiConversion.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\AsciiConversion.dll
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\refint\AsciiConversion.dll
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\AsciiConversion.pdb
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\AsciiConversion.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\Assigment4a\AsciiConversion\obj\Debug\net8.0\ref\AsciiConversion.dll
