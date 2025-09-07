@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\bin\Debug\net8.0\ConsoleAppReference.exe
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\bin\Debug\net8.0\ConsoleAppReference.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\bin\Debug\net8.0\ConsoleAppReference.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\bin\Debug\net8.0\ConsoleAppReference.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\bin\Debug\net8.0\ConsoleAppReference.pdb
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ConsoleAppReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ConsoleAppReference.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ConsoleAppReference.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ConsoleAppReference.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ConsoleAppReference.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\refint\ConsoleAppReference.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ConsoleAppReference.pdb
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ConsoleAppReference.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppReference\obj\Debug\net8.0\ref\ConsoleAppReference.dll

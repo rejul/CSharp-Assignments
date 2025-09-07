@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\Myanimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\Myanimals.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\Myanimals.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\Myanimals.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\bin\Debug\net8.0\Myanimals.exe
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\bin\Debug\net8.0\Myanimals.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\bin\Debug\net8.0\Myanimals.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\bin\Debug\net8.0\Myanimals.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\bin\Debug\net8.0\Myanimals.pdb
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\Myanimals.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\refint\Myanimals.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\Myanimals.pdb
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\Myanimals.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\Myanimals\obj\Debug\net8.0\ref\Myanimals.dll

@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappreference\\consoleappreference.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|solutionrelative:consoleappreference\\consoleappreference.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9E7BE1-D33A-4AA4-94E1-8B869C49D0A2}|ConsoleAppAnimalHierarchy\\ConsoleAppAnimalHierarchy.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimalhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC9E7BE1-D33A-4AA4-94E1-8B869C49D0A2}|ConsoleAppAnimalHierarchy\\ConsoleAppAnimalHierarchy.csproj|solutionrelative:consoleappanimalhierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|solutionrelative:consoleappreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappreference\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|solutionrelative:consoleappreference\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappreference\\interface\\isecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|solutionrelative:consoleappreference\\interface\\isecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappreference\\interface\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BFA02B-AC4F-4124-BF81-2F5A9718BB30}|ConsoleAppReference\\ConsoleAppReference.csproj|solutionrelative:consoleappreference\\interface\\ifirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\myanimals\\myanimals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|solutionrelative:myanimals\\myanimals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimalstwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|solutionrelative:consoleappanimalstwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimalstwo\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|solutionrelative:consoleappanimalstwo\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimalstwo\\model\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|solutionrelative:consoleappanimalstwo\\model\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimalstwo\\model\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46CE30A-5AEE-4CE3-A032-80DD99C40B2F}|ConsoleAppAnimalsTwo\\ConsoleAppAnimalsTwo.csproj|solutionrelative:consoleappanimalstwo\\model\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB6F6F5-40ED-4C08-8DB0-9FDC5BA56D6E}|ConsoleAppAnimals\\ConsoleAppAnimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimals\\consoleappanimals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BB6F6F5-40ED-4C08-8DB0-9FDC5BA56D6E}|ConsoleAppAnimals\\ConsoleAppAnimals.csproj|solutionrelative:consoleappanimals\\consoleappanimals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB6F6F5-40ED-4C08-8DB0-9FDC5BA56D6E}|ConsoleAppAnimals\\ConsoleAppAnimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB6F6F5-40ED-4C08-8DB0-9FDC5BA56D6E}|ConsoleAppAnimals\\ConsoleAppAnimals.csproj|solutionrelative:consoleappanimals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB6F6F5-40ED-4C08-8DB0-9FDC5BA56D6E}|ConsoleAppAnimals\\ConsoleAppAnimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappanimals\\model\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB6F6F5-40ED-4C08-8DB0-9FDC5BA56D6E}|ConsoleAppAnimals\\ConsoleAppAnimals.csproj|solutionrelative:consoleappanimals\\model\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\myanimals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|solutionrelative:myanimals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\myanimals\\service\\myanimals_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|solutionrelative:myanimals\\service\\myanimals_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\myanimals\\model\\imammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|solutionrelative:myanimals\\model\\imammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\myanimals\\model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81093C8E-510B-4561-AFCE-9B8D8817BB48}|Myanimals\\Myanimals.csproj|solutionrelative:myanimals\\model\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB2DD91-A00A-4178-98B8-B39E3AA796AB}|ConsoleAppAbstract\\ConsoleAppAbstract.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB2DD91-A00A-4178-98B8-B39E3AA796AB}|ConsoleAppAbstract\\ConsoleAppAbstract.csproj|solutionrelative:consoleappabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB2DD91-A00A-4178-98B8-B39E3AA796AB}|ConsoleAppAbstract\\ConsoleAppAbstract.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappabstract\\model\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB2DD91-A00A-4178-98B8-B39E3AA796AB}|ConsoleAppAbstract\\ConsoleAppAbstract.csproj|solutionrelative:consoleappabstract\\model\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB2DD91-A00A-4178-98B8-B39E3AA796AB}|ConsoleAppAbstract\\ConsoleAppAbstract.csproj|c:\\users\\rejul\\source\\repos\\consoleappabstract\\consoleappabstract\\model\\imammals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB2DD91-A00A-4178-98B8-B39E3AA796AB}|ConsoleAppAbstract\\ConsoleAppAbstract.csproj|solutionrelative:consoleappabstract\\model\\imammals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalHierarchy\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAnimalHierarchy\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalHierarchy\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAnimalHierarchy\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T01:30:37.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Numbers.cs",
+              "RelativeDocumentMoniker": "ConsoleAppReference\\Numbers.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Numbers.cs",
+              "RelativeToolTip": "ConsoleAppReference\\Numbers.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:58:53.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISecond.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Interface\\ISecond.cs",
+              "RelativeDocumentMoniker": "ConsoleAppReference\\Interface\\ISecond.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Interface\\ISecond.cs",
+              "RelativeToolTip": "ConsoleAppReference\\Interface\\ISecond.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:54:23.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFirst.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Interface\\IFirst.cs",
+              "RelativeDocumentMoniker": "ConsoleAppReference\\Interface\\IFirst.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Interface\\IFirst.cs",
+              "RelativeToolTip": "ConsoleAppReference\\Interface\\IFirst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:54:07.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleAppReference",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\ConsoleAppReference.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppReference\\ConsoleAppReference.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\ConsoleAppReference.csproj",
+              "RelativeToolTip": "ConsoleAppReference\\ConsoleAppReference.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T14:53:15.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppReference\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppReference\\Program.cs",
+              "RelativeToolTip": "ConsoleAppReference\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:51:10.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Model\\Dog.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAnimalsTwo\\Model\\Dog.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Model\\Dog.cs",
+              "RelativeToolTip": "ConsoleAppAnimalsTwo\\Model\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:13:28.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Model\\Cat.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAnimalsTwo\\Model\\Cat.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Model\\Cat.cs",
+              "RelativeToolTip": "ConsoleAppAnimalsTwo\\Model\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:13:19.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Model\\Animals.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAnimalsTwo\\Model\\Animals.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Model\\Animals.cs",
+              "RelativeToolTip": "ConsoleAppAnimalsTwo\\Model\\Animals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:12:30.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleAppAnimals",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimals\\ConsoleAppAnimals.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppAnimals\\ConsoleAppAnimals.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimals\\ConsoleAppAnimals.csproj",
+              "RelativeToolTip": "ConsoleAppAnimals\\ConsoleAppAnimals.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T14:12:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAnimalsTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimalsTwo\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAnimalsTwo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T14:12:00.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimals\\Model\\Animals.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAnimals\\Model\\Animals.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimals\\Model\\Animals.cs",
+              "RelativeToolTip": "ConsoleAppAnimals\\Model\\Animals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:59:12.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimals\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAnimals\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAnimals\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAnimals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T12:49:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyAnimals_.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Service\\MyAnimals_.cs",
+              "RelativeDocumentMoniker": "Myanimals\\Service\\MyAnimals_.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Service\\MyAnimals_.cs",
+              "RelativeToolTip": "Myanimals\\Service\\MyAnimals_.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T07:02:09.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Myanimals",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Myanimals.csproj",
+              "RelativeDocumentMoniker": "Myanimals\\Myanimals.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Myanimals.csproj",
+              "RelativeToolTip": "Myanimals\\Myanimals.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-06T07:00:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMammal.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Model\\IMammal.cs",
+              "RelativeDocumentMoniker": "Myanimals\\Model\\IMammal.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Model\\IMammal.cs",
+              "RelativeToolTip": "Myanimals\\Model\\IMammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:59:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Model\\Animal.cs",
+              "RelativeDocumentMoniker": "Myanimals\\Model\\Animal.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Model\\Animal.cs",
+              "RelativeToolTip": "Myanimals\\Model\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:58:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Program.cs",
+              "RelativeDocumentMoniker": "Myanimals\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\Myanimals\\Program.cs",
+              "RelativeToolTip": "Myanimals\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:58:04.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAbstract\\Model\\Mammal.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAbstract\\Model\\Mammal.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAbstract\\Model\\Mammal.cs",
+              "RelativeToolTip": "ConsoleAppAbstract\\Model\\Mammal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:31:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMammals.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAbstract\\Model\\IMammals.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAbstract\\Model\\IMammals.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAbstract\\Model\\IMammals.cs",
+              "RelativeToolTip": "ConsoleAppAbstract\\Model\\IMammals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:26:57.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAbstract\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAbstract\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ConsoleAppAbstract\\ConsoleAppAbstract\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAbstract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:26:02.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

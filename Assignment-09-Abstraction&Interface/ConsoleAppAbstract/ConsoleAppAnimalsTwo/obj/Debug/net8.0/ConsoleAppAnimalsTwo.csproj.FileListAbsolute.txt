@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\bin\Debug\net8.0\ConsoleAppAnimalsTwo.exe
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\bin\Debug\net8.0\ConsoleAppAnimalsTwo.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\bin\Debug\net8.0\ConsoleAppAnimalsTwo.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\bin\Debug\net8.0\ConsoleAppAnimalsTwo.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\bin\Debug\net8.0\ConsoleAppAnimalsTwo.pdb
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ConsoleAppAnimalsTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ConsoleAppAnimalsTwo.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ConsoleAppAnimalsTwo.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ConsoleAppAnimalsTwo.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ConsoleAppAnimalsTwo.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\refint\ConsoleAppAnimalsTwo.dll
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ConsoleAppAnimalsTwo.pdb
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ConsoleAppAnimalsTwo.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppAbstract\ConsoleAppAnimalsTwo\obj\Debug\net8.0\ref\ConsoleAppAnimalsTwo.dll
