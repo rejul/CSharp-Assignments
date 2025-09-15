@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96D65D6D-E487-4BB3-8714-9AC8B2ECA14B}|ConsoleAppD\\ConsoleAppD.csproj|c:\\users\\rejul\\source\\repos\\exceptionhandling\\consoleappd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D65D6D-E487-4BB3-8714-9AC8B2ECA14B}|ConsoleAppD\\ConsoleAppD.csproj|solutionrelative:consoleappd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D233511-CF17-4815-B077-075232834D79}|ConsoleAppExecptionC\\ConsoleAppExecptionC.csproj|c:\\users\\rejul\\source\\repos\\exceptionhandling\\consoleappexecptionc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D233511-CF17-4815-B077-075232834D79}|ConsoleAppExecptionC\\ConsoleAppExecptionC.csproj|solutionrelative:consoleappexecptionc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526BCDFD-365D-4CD8-86BB-33D7DC5B0B4F}|ArithmeticException\\ArithmeticException.csproj|c:\\users\\rejul\\source\\repos\\exceptionhandling\\arithmeticexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526BCDFD-365D-4CD8-86BB-33D7DC5B0B4F}|ArithmeticException\\ArithmeticException.csproj|solutionrelative:arithmeticexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE20245C-4D08-4D36-934D-031267727ED6}|Employee\\Employee.csproj|c:\\users\\rejul\\source\\repos\\exceptionhandling\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE20245C-4D08-4D36-934D-031267727ED6}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\ConsoleAppD\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppD\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\ConsoleAppD\\Program.cs",
+              "RelativeToolTip": "ConsoleAppD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:42:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\ConsoleAppExecptionC\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppExecptionC\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\ConsoleAppExecptionC\\Program.cs",
+              "RelativeToolTip": "ConsoleAppExecptionC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:38:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\ArithmeticException\\Program.cs",
+              "RelativeDocumentMoniker": "ArithmeticException\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\ArithmeticException\\Program.cs",
+              "RelativeToolTip": "ArithmeticException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:34:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\ExceptionHandling\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:30:49.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

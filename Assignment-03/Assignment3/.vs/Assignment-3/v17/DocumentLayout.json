@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C86AEB9-57C2-4A88-8C40-F24DAF6D172F}|assigment3c\\Assigment3C.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assigment3c\\assigment3c.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C86AEB9-57C2-4A88-8C40-F24DAF6D172F}|assigment3c\\Assigment3C.csproj|solutionrelative:assigment3c\\assigment3c.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A8D9BC-70D1-4E74-9D41-34F81F533251}|Assignment3b\\Assignment3b.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A8D9BC-70D1-4E74-9D41-34F81F533251}|Assignment3b\\Assignment3b.csproj|solutionrelative:assignment3b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A8D9BC-70D1-4E74-9D41-34F81F533251}|Assignment3b\\Assignment3b.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3b\\assignment3b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8A8D9BC-70D1-4E74-9D41-34F81F533251}|Assignment3b\\Assignment3b.csproj|solutionrelative:assignment3b\\assignment3b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56316493-FBD2-4225-9EB9-67DAC0BAAFFB}|Assignment3a\\Assignment3a.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56316493-FBD2-4225-9EB9-67DAC0BAAFFB}|Assignment3a\\Assignment3a.csproj|solutionrelative:assignment3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56316493-FBD2-4225-9EB9-67DAC0BAAFFB}|Assignment3a\\Assignment3a.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3a\\assignment3a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56316493-FBD2-4225-9EB9-67DAC0BAAFFB}|Assignment3a\\Assignment3a.csproj|solutionrelative:assignment3a\\assignment3a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C86AEB9-57C2-4A88-8C40-F24DAF6D172F}|assigment3c\\AssigmentC.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assigment3c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C86AEB9-57C2-4A88-8C40-F24DAF6D172F}|assigment3c\\AssigmentC.csproj|solutionrelative:assigment3c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B5D24B-47E1-4F6D-986A-3CA9C318CE01}|PatternA\\PatternA.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\patterna\\patterna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67B5D24B-47E1-4F6D-986A-3CA9C318CE01}|PatternA\\PatternA.csproj|solutionrelative:patterna\\patterna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B5D24B-47E1-4F6D-986A-3CA9C318CE01}|PatternA\\PatternA.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\patterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B5D24B-47E1-4F6D-986A-3CA9C318CE01}|PatternA\\PatternA.csproj|solutionrelative:patterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61C360C-47EC-4517-BBE4-9261BDA35BF4}|StrongNumber\\StrongNumber.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61C360C-47EC-4517-BBE4-9261BDA35BF4}|StrongNumber\\StrongNumber.csproj|solutionrelative:strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E12C08-48C7-47BF-8A0E-9D88BB20B6C2}|Assignment3i\\Assignment3i.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E12C08-48C7-47BF-8A0E-9D88BB20B6C2}|Assignment3i\\Assignment3i.csproj|solutionrelative:assignment3i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FE260C-B988-470B-BAD2-642F851AB3A6}|Assignment3h\\Assignment3h.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3h\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FE260C-B988-470B-BAD2-642F851AB3A6}|Assignment3h\\Assignment3h.csproj|solutionrelative:assignment3h\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E23C575-CA91-4061-9590-8427079E01C4}|PatternbyAlphabet\\PatternbyAlphabet.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\patternbyalphabet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E23C575-CA91-4061-9590-8427079E01C4}|PatternbyAlphabet\\PatternbyAlphabet.csproj|solutionrelative:patternbyalphabet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC095369-1507-40DB-95F0-D4467FB51E7A}|Pallindrome\\Pallindrome.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\pallindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC095369-1507-40DB-95F0-D4467FB51E7A}|Pallindrome\\Pallindrome.csproj|solutionrelative:pallindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9B58CA-0763-4944-B32A-6DB4C5AE4219}|Assignment3d\\Assignment3d.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9B58CA-0763-4944-B32A-6DB4C5AE4219}|Assignment3d\\Assignment3d.csproj|solutionrelative:assignment3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE017A34-E3A8-4AE3-ABBC-350BDEDB3FB2}|Assigment3e\\FibonacciSeries.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assigment3e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE017A34-E3A8-4AE3-ABBC-350BDEDB3FB2}|Assigment3e\\FibonacciSeries.csproj|solutionrelative:assigment3e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17DF7F4-869B-4AEA-AE78-28CDB66BE217}|Assignment3j\\Assignment3jPattern.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-03\\assignment3a\\assignment3j\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17DF7F4-869B-4AEA-AE78-28CDB66BE217}|Assignment3j\\Assignment3jPattern.csproj|solutionrelative:assignment3j\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatternA",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\PatternA\\PatternA.csproj",
+              "RelativeDocumentMoniker": "PatternA\\PatternA.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\PatternA\\PatternA.csproj",
+              "RelativeToolTip": "PatternA\\PatternA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T12:48:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssigmentC.csproj",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\assigment3c\\Assigment3C.csproj",
+              "RelativeDocumentMoniker": "assigment3c\\Assigment3C.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\assigment3c\\Assigment3C.csproj",
+              "RelativeToolTip": "assigment3c\\Assigment3C.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T12:48:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assignment3a.csproj",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3a\\Assignment3A.csproj",
+              "RelativeDocumentMoniker": "Assignment3a\\Assignment3A.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3a\\Assignment3A.csproj",
+              "RelativeToolTip": "Assignment3a\\Assignment3A.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T12:47:20.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\PatternA\\Program.cs",
+              "RelativeDocumentMoniker": "PatternA\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\PatternA\\Program.cs",
+              "RelativeToolTip": "PatternA\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:58:04.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\StrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "StrongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\StrongNumber\\Program.cs",
+              "RelativeToolTip": "StrongNumber\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:31:52.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3j\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3j\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3j\\Program.cs",
+              "RelativeToolTip": "Assignment3j\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:24:52.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3i\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3i\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3i\\Program.cs",
+              "RelativeToolTip": "Assignment3i\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:08:59.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3h\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3h\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3h\\Program.cs",
+              "RelativeToolTip": "Assignment3h\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:06:59.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\PatternbyAlphabet\\Program.cs",
+              "RelativeDocumentMoniker": "PatternbyAlphabet\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\PatternbyAlphabet\\Program.cs",
+              "RelativeToolTip": "PatternbyAlphabet\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T01:31:55.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Pallindrome\\Program.cs",
+              "RelativeDocumentMoniker": "Pallindrome\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Pallindrome\\Program.cs",
+              "RelativeToolTip": "Pallindrome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:26:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assigment3e\\Program.cs",
+              "RelativeDocumentMoniker": "Assigment3e\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assigment3e\\Program.cs",
+              "RelativeToolTip": "Assigment3e\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:21:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3d\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3d\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3d\\Program.cs",
+              "RelativeToolTip": "Assignment3d\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T04:30:33.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3a\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3a\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3a\\Program.cs",
+              "RelativeToolTip": "Assignment3a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:22:24.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\assigment3c\\Program.cs",
+              "RelativeDocumentMoniker": "assigment3c\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\assigment3c\\Program.cs",
+              "RelativeToolTip": "assigment3c\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T03:59:55.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment3b.csproj",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3b\\Assignment3B.csproj",
+              "RelativeDocumentMoniker": "Assignment3b\\Assignment3B.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3b\\Assignment3B.csproj",
+              "RelativeToolTip": "Assignment3b\\Assignment3B.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T13:30:12.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3b\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment3b\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-03\\Assignment3a\\Assignment3b\\Program.cs",
+              "RelativeToolTip": "Assignment3b\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:23:21.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

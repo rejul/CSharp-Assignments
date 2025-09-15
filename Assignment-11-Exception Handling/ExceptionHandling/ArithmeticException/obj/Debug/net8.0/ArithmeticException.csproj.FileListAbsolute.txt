@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\bin\Debug\net8.0\ArithmeticException.exe
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\bin\Debug\net8.0\ArithmeticException.deps.json
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\bin\Debug\net8.0\ArithmeticException.runtimeconfig.json
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\bin\Debug\net8.0\ArithmeticException.dll
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\bin\Debug\net8.0\ArithmeticException.pdb
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ArithmeticException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ArithmeticException.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ArithmeticException.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ArithmeticException.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ArithmeticException.dll
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\refint\ArithmeticException.dll
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ArithmeticException.pdb
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ArithmeticException.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ExceptionHandling\ArithmeticException\obj\Debug\net8.0\ref\ArithmeticException.dll

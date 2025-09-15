@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D233511-CF17-4815-B077-075232834D79}|ConsoleAppExecptionC\\ConsoleAppExecptionC.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-11-exception handling\\exceptionhandling\\consoleappexecptionc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D233511-CF17-4815-B077-075232834D79}|ConsoleAppExecptionC\\ConsoleAppExecptionC.csproj|solutionrelative:consoleappexecptionc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D65D6D-E487-4BB3-8714-9AC8B2ECA14B}|ConsoleAppD\\ConsoleAppD.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-11-exception handling\\exceptionhandling\\consoleappd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D65D6D-E487-4BB3-8714-9AC8B2ECA14B}|ConsoleAppD\\ConsoleAppD.csproj|solutionrelative:consoleappd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D65D6D-E487-4BB3-8714-9AC8B2ECA14B}|ConsoleAppD\\ConsoleAppD.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-11-exception handling\\exceptionhandling\\consoleappd\\consoleappd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96D65D6D-E487-4BB3-8714-9AC8B2ECA14B}|ConsoleAppD\\ConsoleAppD.csproj|solutionrelative:consoleappd\\consoleappd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE20245C-4D08-4D36-934D-031267727ED6}|Employee\\Employee.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-11-exception handling\\exceptionhandling\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE20245C-4D08-4D36-934D-031267727ED6}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE20245C-4D08-4D36-934D-031267727ED6}|Employee\\ConsoleAppA.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-11-exception handling\\exceptionhandling\\employee\\consoleappa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE20245C-4D08-4D36-934D-031267727ED6}|Employee\\ConsoleAppA.csproj|solutionrelative:employee\\consoleappa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526BCDFD-365D-4CD8-86BB-33D7DC5B0B4F}|ArithmeticException\\ArithmeticException.csproj|c:\\users\\rejul\\source\\repos\\c#_faith\\assignment-11-exception handling\\exceptionhandling\\arithmeticexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526BCDFD-365D-4CD8-86BB-33D7DC5B0B4F}|ArithmeticException\\ArithmeticException.csproj|solutionrelative:arithmeticexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleAppD",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ConsoleAppD\\ConsoleAppD.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppD\\ConsoleAppD.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ConsoleAppD\\ConsoleAppD.csproj",
+              "RelativeToolTip": "ConsoleAppD\\ConsoleAppD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T12:42:59.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleAppA.csproj",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\Employee\\ConsoleAppA.csproj",
+              "RelativeDocumentMoniker": "Employee\\ConsoleAppA.csproj",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\Employee\\ConsoleAppA.csproj",
+              "RelativeToolTip": "Employee\\ConsoleAppA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T12:41:25.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ConsoleAppD\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppD\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ConsoleAppD\\Program.cs",
+              "RelativeToolTip": "ConsoleAppD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:42:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ConsoleAppExecptionC\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppExecptionC\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ConsoleAppExecptionC\\Program.cs",
+              "RelativeToolTip": "ConsoleAppExecptionC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:38:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ArithmeticException\\Program.cs",
+              "RelativeDocumentMoniker": "ArithmeticException\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\ArithmeticException\\Program.cs",
+              "RelativeToolTip": "ArithmeticException\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:34:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejul\\source\\repos\\C#_Faith\\Assignment-11-Exception Handling\\ExceptionHandling\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:30:49.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
