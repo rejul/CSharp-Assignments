@@ -1,0 +1,4 @@
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionsD\obj\Debug\net8.0\ConsoleAppCollectionsD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionsD\obj\Debug\net8.0\ConsoleAppCollectionsD.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionsD\obj\Debug\net8.0\ConsoleAppCollectionsD.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionsD\obj\Debug\net8.0\ConsoleAppCollectionsD.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\BankAppWithDelegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\BankAppWithDelegation.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\BankAppWithDelegation.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\BankAppWithDelegation.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\bin\Debug\net8.0\BankAppWithDelegation.exe
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\bin\Debug\net8.0\BankAppWithDelegation.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\bin\Debug\net8.0\BankAppWithDelegation.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\bin\Debug\net8.0\BankAppWithDelegation.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\bin\Debug\net8.0\BankAppWithDelegation.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\BankAppWithDelegation.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\refint\BankAppWithDelegation.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\BankAppWithDelegation.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\BankAppWithDelegation.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\BankAppWithDelegation\obj\Debug\net8.0\ref\BankAppWithDelegation.dll

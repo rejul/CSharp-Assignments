@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPolymorphism", "ConsoleAppPolymorphism\ConsoleAppPolymorphism.csproj", "{68357F46-B992-4DB2-A7C1-93D1974939B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppShapeVolume", "ConsoleAppShape\ConsoleAppShapeVolume.csproj", "{0296C45F-9ACD-4AA8-A986-8E7157581B98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppShapeOverLoading", "ConsoleAppShapeOverLoading\ConsoleAppShapeOverLoading.csproj", "{AD3BB6A8-DD29-4DC4-8B46-344660F16DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppCoordinate", "ConsoleAppCoordinate\ConsoleAppCoordinate.csproj", "{06E99575-2234-4946-B930-CB3AFE62993A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMathCalculator", "ConsoleAppMathCalculator\ConsoleAppMathCalculator.csproj", "{39CFDDAF-80B1-4B54-BB01-81E55736B6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppHeightMeasurement", "ConsoleAppHeightMeasurement\ConsoleAppHeightMeasurement.csproj", "{A4065CAA-078F-4AD0-90E0-F419C8903440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68357F46-B992-4DB2-A7C1-93D1974939B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68357F46-B992-4DB2-A7C1-93D1974939B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68357F46-B992-4DB2-A7C1-93D1974939B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68357F46-B992-4DB2-A7C1-93D1974939B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0296C45F-9ACD-4AA8-A986-8E7157581B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0296C45F-9ACD-4AA8-A986-8E7157581B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0296C45F-9ACD-4AA8-A986-8E7157581B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0296C45F-9ACD-4AA8-A986-8E7157581B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3BB6A8-DD29-4DC4-8B46-344660F16DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3BB6A8-DD29-4DC4-8B46-344660F16DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3BB6A8-DD29-4DC4-8B46-344660F16DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3BB6A8-DD29-4DC4-8B46-344660F16DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E99575-2234-4946-B930-CB3AFE62993A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E99575-2234-4946-B930-CB3AFE62993A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E99575-2234-4946-B930-CB3AFE62993A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E99575-2234-4946-B930-CB3AFE62993A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CFDDAF-80B1-4B54-BB01-81E55736B6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CFDDAF-80B1-4B54-BB01-81E55736B6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CFDDAF-80B1-4B54-BB01-81E55736B6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CFDDAF-80B1-4B54-BB01-81E55736B6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4065CAA-078F-4AD0-90E0-F419C8903440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4065CAA-078F-4AD0-90E0-F419C8903440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4065CAA-078F-4AD0-90E0-F419C8903440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4065CAA-078F-4AD0-90E0-F419C8903440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D6CC66-B7AE-4B6F-A803-5738FD4C149E}
+	EndGlobalSection
+EndGlobal

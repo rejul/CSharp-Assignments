@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppCollectionC/1.0.0": {
+        "runtime": {
+          "ConsoleAppCollectionC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppCollectionC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\bin\Debug\net8.0\ConsoleAppDelegateOne.exe
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\bin\Debug\net8.0\ConsoleAppDelegateOne.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\bin\Debug\net8.0\ConsoleAppDelegateOne.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\bin\Debug\net8.0\ConsoleAppDelegateOne.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\bin\Debug\net8.0\ConsoleAppDelegateOne.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ConsoleAppDelegateOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ConsoleAppDelegateOne.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ConsoleAppDelegateOne.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ConsoleAppDelegateOne.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ConsoleAppDelegateOne.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\refint\ConsoleAppDelegateOne.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ConsoleAppDelegateOne.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ConsoleAppDelegateOne.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\ConsoleAppDelegateOne\obj\Debug\net8.0\ref\ConsoleAppDelegateOne.dll

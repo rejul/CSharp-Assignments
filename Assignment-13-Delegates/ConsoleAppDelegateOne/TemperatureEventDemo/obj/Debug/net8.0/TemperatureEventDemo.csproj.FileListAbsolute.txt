@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\bin\Debug\net8.0\TemperatureEventDemo.exe
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\bin\Debug\net8.0\TemperatureEventDemo.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\bin\Debug\net8.0\TemperatureEventDemo.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\bin\Debug\net8.0\TemperatureEventDemo.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\bin\Debug\net8.0\TemperatureEventDemo.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\TemperatureEventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\TemperatureEventDemo.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\TemperatureEventDemo.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\TemperatureEventDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\TemperatureEventDemo.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\refint\TemperatureEventDemo.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\TemperatureEventDemo.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\TemperatureEventDemo.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\TemperatureEventDemo\obj\Debug\net8.0\ref\TemperatureEventDemo.dll

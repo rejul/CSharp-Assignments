@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\bin\Debug\net8.0\FileHandlingB.exe
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\bin\Debug\net8.0\FileHandlingB.deps.json
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\bin\Debug\net8.0\FileHandlingB.runtimeconfig.json
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\bin\Debug\net8.0\FileHandlingB.dll
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\bin\Debug\net8.0\FileHandlingB.pdb
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\FileHandlingB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\FileHandlingB.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\FileHandlingB.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\FileHandlingB.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\FileHandlingB.dll
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\refint\FileHandlingB.dll
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\FileHandlingB.pdb
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\FileHandlingB.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\FileHandling\FileHandlingB\obj\Debug\net8.0\ref\FileHandlingB.dll

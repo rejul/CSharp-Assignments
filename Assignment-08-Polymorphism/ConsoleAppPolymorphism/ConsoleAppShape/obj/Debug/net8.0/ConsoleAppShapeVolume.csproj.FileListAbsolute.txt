@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\bin\Debug\net8.0\ConsoleAppShapeVolume.exe
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\bin\Debug\net8.0\ConsoleAppShapeVolume.deps.json
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\bin\Debug\net8.0\ConsoleAppShapeVolume.runtimeconfig.json
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\bin\Debug\net8.0\ConsoleAppShapeVolume.dll
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\bin\Debug\net8.0\ConsoleAppShapeVolume.pdb
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ConsoleAppShapeVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ConsoleAppShapeVolume.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ConsoleAppShapeVolume.AssemblyInfo.cs
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ConsoleAppShapeVolume.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ConsoleAppShapeVolume.dll
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\refint\ConsoleAppShapeVolume.dll
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ConsoleAppShapeVolume.pdb
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ConsoleAppShapeVolume.genruntimeconfig.cache
+C:\Users\hp\Documents\camp4\ConsoleAppPolymorphism\ConsoleAppShape\obj\Debug\net8.0\ref\ConsoleAppShapeVolume.dll

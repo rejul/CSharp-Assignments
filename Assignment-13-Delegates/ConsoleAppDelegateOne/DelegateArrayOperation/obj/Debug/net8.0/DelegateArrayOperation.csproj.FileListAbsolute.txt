@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\bin\Debug\net8.0\DelegateArrayOperation.exe
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\bin\Debug\net8.0\DelegateArrayOperation.deps.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\bin\Debug\net8.0\DelegateArrayOperation.runtimeconfig.json
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\bin\Debug\net8.0\DelegateArrayOperation.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\bin\Debug\net8.0\DelegateArrayOperation.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\DelegateArrayOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\DelegateArrayOperation.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\DelegateArrayOperation.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\DelegateArrayOperation.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\DelegateArrayOperation.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\refint\DelegateArrayOperation.dll
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\DelegateArrayOperation.pdb
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\DelegateArrayOperation.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\ConsoleAppDelegateOne\DelegateArrayOperation\obj\Debug\net8.0\ref\DelegateArrayOperation.dll

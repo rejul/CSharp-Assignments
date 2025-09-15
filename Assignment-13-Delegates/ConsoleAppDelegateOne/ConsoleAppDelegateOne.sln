@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDelegateOne", "ConsoleAppDelegateOne\ConsoleAppDelegateOne.csproj", "{DE5FACBC-7A99-4912-9BF7-EE007C2EA10D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDelegationDemo", "ConsoleAppDelegationDemo\ConsoleAppDelegationDemo.csproj", "{B45446F6-DFED-4482-AF0A-F6A4248DDE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppEventDemo", "ConsoleAppEventDemo\ConsoleAppEventDemo.csproj", "{B17AA5D4-DD90-4122-80F3-9E6D613FD65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAppWithDelegation", "BankAppWithDelegation\BankAppWithDelegation.csproj", "{02E43E53-E3FD-4D59-BD68-63DDD4716496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateArrayOperation", "DelegateArrayOperation\DelegateArrayOperation.csproj", "{AA40B506-1ADF-4456-B1B7-46C8C74D7CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureEventDemo", "TemperatureEventDemo\TemperatureEventDemo.csproj", "{D156643A-749E-41B2-99EE-5877924AE88A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5FACBC-7A99-4912-9BF7-EE007C2EA10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5FACBC-7A99-4912-9BF7-EE007C2EA10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5FACBC-7A99-4912-9BF7-EE007C2EA10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5FACBC-7A99-4912-9BF7-EE007C2EA10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45446F6-DFED-4482-AF0A-F6A4248DDE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45446F6-DFED-4482-AF0A-F6A4248DDE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45446F6-DFED-4482-AF0A-F6A4248DDE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45446F6-DFED-4482-AF0A-F6A4248DDE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17AA5D4-DD90-4122-80F3-9E6D613FD65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17AA5D4-DD90-4122-80F3-9E6D613FD65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17AA5D4-DD90-4122-80F3-9E6D613FD65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17AA5D4-DD90-4122-80F3-9E6D613FD65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E43E53-E3FD-4D59-BD68-63DDD4716496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E43E53-E3FD-4D59-BD68-63DDD4716496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E43E53-E3FD-4D59-BD68-63DDD4716496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E43E53-E3FD-4D59-BD68-63DDD4716496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA40B506-1ADF-4456-B1B7-46C8C74D7CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA40B506-1ADF-4456-B1B7-46C8C74D7CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA40B506-1ADF-4456-B1B7-46C8C74D7CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA40B506-1ADF-4456-B1B7-46C8C74D7CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D156643A-749E-41B2-99EE-5877924AE88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D156643A-749E-41B2-99EE-5877924AE88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D156643A-749E-41B2-99EE-5877924AE88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D156643A-749E-41B2-99EE-5877924AE88A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {179BB05D-6C11-4E09-B43E-D5E150BF9341}
+	EndGlobalSection
+EndGlobal

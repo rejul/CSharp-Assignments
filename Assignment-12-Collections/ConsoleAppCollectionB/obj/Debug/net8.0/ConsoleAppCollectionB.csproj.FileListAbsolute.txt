@@ -1,0 +1,14 @@
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\bin\Debug\net8.0\ConsoleAppCollectionB.exe
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\bin\Debug\net8.0\ConsoleAppCollectionB.deps.json
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\bin\Debug\net8.0\ConsoleAppCollectionB.runtimeconfig.json
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\bin\Debug\net8.0\ConsoleAppCollectionB.dll
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\bin\Debug\net8.0\ConsoleAppCollectionB.pdb
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ConsoleAppCollectionB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ConsoleAppCollectionB.AssemblyInfoInputs.cache
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ConsoleAppCollectionB.AssemblyInfo.cs
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ConsoleAppCollectionB.csproj.CoreCompileInputs.cache
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ConsoleAppCollectionB.dll
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\refint\ConsoleAppCollectionB.dll
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ConsoleAppCollectionB.pdb
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ConsoleAppCollectionB.genruntimeconfig.cache
+C:\Users\Rejul\source\repos\Collections\ConsoleAppCollectionB\obj\Debug\net8.0\ref\ConsoleAppCollectionB.dll
